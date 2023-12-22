@@ -4,7 +4,7 @@ Hi 👋 My name is Reynold Andika Gradiyanto
 Software Developer
 ------------------
 
-I've been working 2 years as a Software Developer. I'm looking to continue my growth in the software industry. While I'm passionate about Software Development especially in Backend Development, I'm also on the road learning Flutter for Mobile Development especially in Android and I'm open to moving roles as long as the work is interesting and challenging.
+I've been working 2 years as a Software Developer. I'm looking to continue my growth in the software industry. While I'm passionate about Software Development especially in Backend Development, I'm also on the road learning Flutter for Mobile Development especially in Android and Vue.Js for Frontend Web Development and I'm open to moving roles as long as the work is interesting and challenging.
 
 * 🌍  I'm based in West Jakarta
 * 🖥️  See my portfolio at [MyPortfolio](http://nekro.dev)
