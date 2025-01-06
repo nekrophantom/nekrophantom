@@ -2,6 +2,8 @@
 
 I'm a passionate **Web Developer** from **West Jakarta, Indonesia**. I love to build apps that solve real-world problems and create a positive impact on people's lives. Currently, I’m focused on developing **internal company websites** and improving my skills in **mobile development** and **full-stack technologies**.
 
+Check out my personal website: [nekro.dev](https://nekro.dev)
+
 ## 🌱 My Tech Stack:
 - **Languages**: JavaScript, PHP, Go, Kotlin, Dart
 - **Frontend**: React, Flutter, HTML, CSS, Bootstrap
