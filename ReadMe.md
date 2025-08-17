@@ -19,7 +19,7 @@ I love **playing online games** 🎮 during my free time. It's a great way to re
 ## 📬 Get in Touch:
 Feel free to reach out to me via:
 - [Email](mailto:reynold@nekro.dev)
-- [LinkedIn](https://www.linkedin.com/in/reynold-andika-gradiyanto-22aa28166/)
+- [LinkedIn](https://www.linkedin.com/in/reynold-andika-gradiyanto/)
 - [Gitlab](https://gitlab.com/nekrophantom)
 
 Thanks for visiting my profile! 😊
