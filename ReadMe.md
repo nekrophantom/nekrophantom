@@ -1,25 +1,38 @@
 # 👋 Hello, I'm Reynold Andika Gradiyanto!
 
-I'm a passionate **Web Developer** from **West Jakarta, Indonesia**. I love to build apps that solve real-world problems and create a positive impact on people's lives. Currently, I’m focused on developing **internal company websites** and improving my skills in **mobile development** and **full-stack technologies**.
+I'm a **Web Developer** from **West Jakarta, Indonesia**, with a focus on building web applications and internal business systems.
 
-Check out my personal website: [nekro.dev](https://nekro.dev)
+I enjoy working on applications that solve real-world problems, from developing user interfaces and APIs to improving database performance and deployment workflows.
 
-## 🌱 My Tech Stack:
-- **Languages**: JavaScript, PHP, Go, Kotlin, Dart
-- **Frontend**: React, Flutter, HTML, CSS, Bootstrap
-- **Backend**: Node.js, Express.js, Laravel, Nginx
-- **Mobile Development**: Android, Jetpack Compose, Kotlin, Flutter
-- **Databases**: MySQL
-- **Version Control**: Git, GitHub, GitLab
-- **Tools & Platforms**: Linux
+Currently, I'm focusing on **React, Next.js, TypeScript, and Laravel**, while continuously improving my skills in modern web development and software engineering.
 
-## 🌟 Fun Fact:
-I love **playing online games** 🎮 during my free time. It's a great way to relax, and sometimes, I learn a lot from the strategies and problem-solving skills involved.
+🌐 Check out my personal website: [nekro.dev](https://nekro.dev)
 
-## 📬 Get in Touch:
-Feel free to reach out to me via:
-- [Email](mailto:reynold@nekro.dev)
-- [LinkedIn](https://www.linkedin.com/in/reynold-andika-gradiyanto/)
-- [Gitlab](https://gitlab.com/nekrophantom)
+## 🛠️ Tech Stack
 
-Thanks for visiting my profile! 😊
+* **Languages:** PHP, JavaScript, TypeScript
+* **Frontend:** React, Next.js, HTML, CSS, Bootstrap
+* **Backend:** Laravel, CodeIgniter, Node.js, REST API
+* **Databases:** MySQL, PostgreSQL
+* **DevOps & Tools:** Docker, Nginx, Git, GitHub, GitLab, Linux
+* **Other:** Payment Gateway & API Integration, CI/CD
+
+## 🌱 Currently Learning
+
+* Modern React & Next.js
+* TypeScript
+* Frontend architecture and best practices
+* API integration and application performance
+* CI/CD and development workflows
+
+## 🎮 Fun Fact
+
+I enjoy playing online games in my free time. Besides being a way to relax, I also like the problem-solving and strategy involved in games.
+
+## 📬 Get in Touch
+
+* 📧 [Email](mailto:reynold@nekro.dev)
+* 💼 [LinkedIn](https://www.linkedin.com/in/reynold-andika-gradiyanto/)
+* 🦊 [GitLab](https://gitlab.com/nekrophantom)
+
+Thanks for visiting my profile! 👋
