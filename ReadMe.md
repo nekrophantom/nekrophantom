@@ -2,7 +2,7 @@
 
 ### Software Engineer | Web, Backend & Mobile Engineering
 
-I'm a software engineer based in **Jakarta, Indonesia**, with 3+ years of experience designing, building, and maintaining web applications, backend services, and mobile applications.
+I'm a software engineer based in **Jakarta, Indonesia**, with 5+ years of experience designing, building, and maintaining web applications, backend services, and mobile applications.
 
 I specialize in PHP, Laravel, MySQL, REST APIs, and JavaScript, with hands-on experience in ERP/WMS platforms, CMS/CRM solutions, e-commerce integrations, payment gateways, performance optimization, and Android development.
 
